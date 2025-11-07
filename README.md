@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm into frontend development and love working on projects in this area. Graphic design is more of a hobby for me, and I occasionally share my designs on Behance. 😊
+I'm a programming student and i love working with frontend. Making games is more of a hobby for me, and I occasionally share my designs on Behance. 😊
 
 
 ## 🌐 Socials:
