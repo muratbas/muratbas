@@ -6,7 +6,7 @@ I'm a programming student and i love working with frontend. Making games is more
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mmuratbas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muuratbas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muratbas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muuratbas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muratbas987@gmail.com) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nextjs,vite,react,electron,tailwind,bootstrap,py,cs,nodejs,git,godot,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,vite,react,electron,tailwind,bootstrap,py,cs,nodejs,git,godot,unity&perline=8)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=muratbas&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muratbas&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
